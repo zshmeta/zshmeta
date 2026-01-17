@@ -1,201 +1,241 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Belka Hedia aka Zshmeta
-===================================================================================================================================
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="wave" />
+  I’m Belka Hedia (aka <b>Zshmeta</b>)
 
-# 🕵️‍♂️ The Human
-
-Strong at heart and always motivated for exciting adventures always led me to learning new things and exploring new places, so i sepnt few (or more) years travelling around, checking "what's up". With as modesty as i have spare, i wish to note that I  consider myself a problem solver and a creative thinker, i always tend to be a good listener with a strong sense of empathy and a strong will to do good. 
-These were probably (most certainly) the aspects that have made possible what i have done and what i will achieve in the future.
-
-# 🦸‍♂️The Dev
-
--   🌱 I’m currently able to produce quality content using:   <div align='center'><table><tr><td valign="top">
--   <img src="svg/html.svg" width=12> **HTML5**
--   <img src="svg/react.svg" width=12> **ReactJS**                  
--   <img src="svg/nextjs-icon.svg" width=12> **NextJS**               
--   <img src="svg/express.svg" width=12> **ExpressJS**            
--   <img src="svg/php.svg" width=12>  **PHP**                  <img src="svg/laravel.svg" width=12>       
--   **Laravel** </td><td valign="top">
-
--  <img src="svg/nodejs.svg" width=12>**NodeJS**
--  <img src="svg/json.svg" width=12>**JSON**
--  <img src="svg/mysql.svg" width=12>**MySQL**
--  <img src="svg/postgresql-logo.svg" width=12>**PostgreSQL**
--  <img src="svg/mongodb.svg" width=12>**MongoDB**
--  <img src="svg/redis.svg" width=12>**Redis**</td></tr></table>
-
--   🌱 In Order to Work efficiently i have also learned:  <div align='center'><table><tr><td valign="top">
--   <img src="svg/git-merge.svg" width=12>   **Git**         
--   <img src="svg/docker.svg" width=12> **Docker**
--   <img src="svg/linux.svg" width=12>   **Linux*     *
--   <img src="svg/bash-icon.svg" width=12> **Bash**
--   <img src="svg/nginx-16.svg" width=12>   **Nginx**</td><td valign="top">
-   
--   <img src="svg/linuxfoundation.svg" width=12>   **ssh**
--   <img src="svg/target.svg" width=12>**SSL**
--   <img src="svg/gitlab.svg" width=12>**CI/CD**
--   <img src="svg/jenkins.svg" width=12>****jenkins****
--   <img src="svg/travis-ci.svg" width=12> **travis**
-    </td></tr></table>
-
-# The Human Dev
-
--   🌱 The following topics can be considered may Favorites:
-                                                           - **Development with a big D**
-                                                           - **Machine Learning** 
-                                                           - **Generative Model** 
-                                                           - **Blockchain**  
-                                                           - **Cybersecurity** 
-                                                           - **Philosophy**
-                                                           - **Psychology** 
-                                                           - **Traveling** 
-                                                           - **Journalism**
-                                                           - **Fairness**
-                                                           - **Freedom**
-                                                           - **Injustice** 
-                                          
-Fullstack Dev
-------------------------------------
-
-My name is Belka Hedia and sometimes go by the alias Zshmeta. I am a Fullstack Developer and a Linux enthusiast. I am currently working on a developing multiple projects including but not limited to **Web Apps Design Patterns and Functional UX**, **Web Development implementations of New Tech**,  **AI technologies - Generative Models - Machine Learning** projects, i have also been meaning to start a proper **Blog** and enhance my **Portfolio**. I am also working on a **Mobile App** using **React Native**. I am also a **Linux** enthusiast and i am currently using **Arch Linux || openSuse || Debian** as my daily driver.
-
-* 🌍  You've already seen me in Marseille, New York, Los Angeles, Melbourne, Jakarta, Bangkok or at your place...
-* 🖥️  See my portfolio at [https://prod.zshmeta.dev](https://prod.zshmeta.dev)
-* ✉️  You can contact me at [belka@zshmeta.dev](mailto:belka@zshmeta.dev)
-* 🚀  I'm currently working on YAP - Yet Another Portfolio ([Github](https://github.com/zshmeta/yap_yetAnotherPortfolio))
-* 🧠  I'm currently exploring LangChain, AI and Machine Learning
-* 🤝  I'm open to collaborating on interesting projects
-
-### Skills
-
-#### Frontend
+<span align="center">
+    <img  src="https://avatars.githubusercontent.com/u/119347705?v=4" width="100" alt="Profile views" />
+</span>
+</h1>
 <p align="center">
-<b
-
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="svg/html.svg" alt="HTML5" width="36" height="36" /></a> 
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="svg/css.svg" alt="CSS3" width="36" height="36" /></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="svg/javascript.svg" alt="JavaScript" width="36" height="36" /></a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="svg/tailwind.svg" alt="TailwindCSS" width="36" height="36" /></a> 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="svg/bootstrap.svg" alt="Bootstrap" width="36" height="36" /></a> 
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="svg/npm.svg" alt="npm" width="36" height="36" /></a>
-<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="svg/yarn.svg" alt="Yarn" width="36" height="36" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="36" height="36" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="svg/webpack.svg" alt="Webpack" width="36" height="36" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="svg/babel.svg" alt="Babel" width="36" height="36" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="svg/typescript.svg" alt="TypeScript" width="36" height="36" /></a>
-<a href="https://www.sass-lang.com/" target="_blank" rel="noreferrer"><img src="svg/sass.svg" alt="Sass" width="36" height="36" /></a>
-<a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="svg/storybook.svg" alt="Storybook" width="36" height="36" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="svg/react.svg" alt="React" width="36" height="36" /></a>
->
+  Full‑stack × DevOps × AI • Linux enthusiast • I ship product, platforms, and prototypes
 </p>
 
-#### Backend
-<br>
 <p align="center">
-<b
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="svg/express.svg" alt="Express.js" width="36" height="36" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="svg/php.svg" alt="PHP" width="36" height="36" /></a> 
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="svg/nodejs.svg" alt="Node.js" width="36" height="36" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="svg/nextjs.svg" alt="Next.js" width="36" height="36" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="svg/mysql.svg" alt="MySQL" width="36" height="36" /></a> 
-<a href="https://www.graphql.org/ target="_blank" rel="noreferrer"><img src="svg/graphql.svg" alt="GraphQL" width="36" height="36" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="svg/postgresql.svg" alt="PostgreSQL" width="36" height="36" /></a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="svg/mongodb.svg" alt="MongoDB" width="36" height="36" /></a> 
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="svg/nginx.svg" alt="Nginx" width="36" height="36" /></a> 
-<a href="https://www.apache.org/" target="_blank" rel="noreferrer"><img src="svg/apache.svg" alt="Apache" width="36" height="36" /></a> 
-<a href="https://www.redis.io/" target="_blank" rel="noreferrer"><img src="svg/redis.svg" alt="Redis" width="36" height="36" /></a>
-
+  <img src="https://komarev.com/ghpvc/?username=zshmeta&style=flat-square&color=blueviolet" alt="Profile views" />
+</p>
+    alt="Typing intro"
+  />
 </p>
 
-#### Frameworks
-
-<br>
-
-
 <p align="center">
-<b
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="svg/laravel.svg" alt="Laravel" width="36" height="36" /></a> 
-<a href="https://www.reactjs.org/" target="_blank" rel="noreferrer"><img src="svg/react.svg" alt="React" width="36" height="36" /></a> 
-<a href="https://www.nextjs.org/" target="_blank" rel="noreferrer"><img src="svg/nextjs.svg" alt="NextJS" width="36" height="36" /></a> 
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="svg/gatsby.svg" alt="Gatsby" width="36" height="36" /></a>
-<a href="https://www.threejs.org/" target="_blank" rel="noreferrer"><img src="svg/threejs.svg" alt="ThreeJS" width="36" height="36" /></a>
-<a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="svg/symfony.svg" alt="Symfony" width="36" height="36" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="svg/tensorflow.svg" alt="TensorFlow" width="36" height="36" /></a>
-<a href="https://www.pytorch.org/" target="_blank" rel="noreferrer"><img src="svg/pytorch.svg" alt="PyTorch" width="36" height="36" /></a>
-<a href="https://www.flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="svg/flask.svg" alt="Flask" width="36" height="36" /></a>
-<a href="https://www.jestjs.io/" target="_blank" rel="noreferrer"><img src="svg/jest.svg" alt="Jest" width="36" height="36" /></a>
-
-
+  <img alt="Full-Stack" src="https://img.shields.io/badge/Full--Stack-111111?logo=vercel&logoColor=white" />
+  <img alt="DevOps" src="https://img.shields.io/badge/DevOps-0A0A0A?logo=linux&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-111111?logo=githubactions&logoColor=white" />
+  <img alt="AI" src="https://img.shields.io/badge/AI%20%26%20LLMs-6E56CF?logo=openai&logoColor=white" />
+  <img alt="MLOps" src="https://img.shields.io/badge/MLOps-1F2937?logo=mlflow&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
 </p>
 
-#### DevOps
-
-
 <p align="center">
-<b
-
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="svg/git.svg" alt="Git" width="36" height="36" /></a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="svg/gitlab.svg" alt="GitLab" width="36" height="36" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="svg/github.svg" alt="GitHub" width="36" height="36" /></a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="36" height="36" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="svg/docker.svg" alt="Docker" width="36" height="36" /></a> 
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="svg/heroku.svg" alt="Heroku" width="36" height="36" /></a>
-<a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"><img src="svg/digitalocean.svg" alt="DigitalOcean" width="36" height="36" /></a>
- <a href="https://www.google.com/" target="_blank" rel="noreferrer"><img src="svg/google.svg" alt="Google" width="36" height="36" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="svg/aws.svg" alt="AWS" width="36" height="36" /></a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="svg/azure.svg" alt="Azure" width="36" height="36" /></a> 
-<a href="https://www.bash.org/" target="_blank" rel="noreferrer"><img src="svg/bash.svg" alt="Bash" width="36" height="36" /></a>
-
-
-#### Tools
-
-
-<p align="center">
-<b
-
-
-<a href="https://vscode.com/" target="_blank" rel="noreferrer"><img src="svg/vscode.svg" alt="VSCode" width="36" height="36" /></a>
-<a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/504667/notion.svg" alt="Notion" width="36" height="36" /></a>
-<a href="https://obsidian.md/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/504676/obsidian.svg" alt="Obsidian" width="36" height="36" /></a>
-<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="svg/jetbrains.svg" alt="JetBrains" width="36" height="36" /></a> 
-<a href="https://intellij.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452236/jb-intellij-idea.svg" alt="IntelliJ" width="36" height="36" /></a>
- <a href="https://sublime.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452109/sublime-text.svg" alt="Sublime" width="36" height="36" /></a>
-<a href="https://chat.openai.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="36" height="36" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="36" height="36" /></a>
-
-
- </p>
-
-#### Systems
-
-
-<p align="center">
-<b
-
-<a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="svg/arch-linux.svg" alt="Arch Linux" width="36" height="36" /></a>
-<a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="svg/debian.svg" alt="Debian" width="36" height="36" /></a>
-<a href="https://www.opensuse.org/" target="_blank" rel="noreferrer"><img src="svg/opensuse.svg" alt="openSUSE" width="36" height="36" /></a>
-<a href="https://www.redhat.com/" target="_blank" rel="noreferrer"><img src="svg/redhat.svg" alt="RedHat" width="36" height="36" /></a>
-<a href="https://openbsd.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/355027/freebsd.svg" alt="OpenBSD" width="36" height="36" /></a>
-<a href="https://torproject.org/" target="_blank" rel="noreferrer" ><img src="https://www.svgrepo.com/show/452117/tor.svg" alt="Tor" width="36" height="36" /></a>
-<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452062/microsoft.svg" alt="Microsoft" width="36" height="36" /></a>
-<a href="https://www.playstation.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452087/playstation.svg" alt="PlayStation" width="36" height="36" /></a>
-<a href="https://www.nintendo.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303386/nintendo-2-logo.svg" alt="Nintendo" width="36" height="36" /></a>
-
+  <a href="https://prod.zshmeta.dev">Portfolio</a>
+  ·
+  <a href="mailto:hedia.belka@gmail.com">hedia.belka@gmail.com</a>
+  ·
+  <a href="https://github.com/zshmeta">GitHub</a>
 </p>
 
-#### Socials
+---
+
+## Career Map
+
+```mermaid
+flowchart TD
+  A["🌍 Curious human "] --> B["🧩 Life"]
+  B --> C["🎓 Education: 
+  Titre Nationale Developeur Concepteur d'application Fullstack"]
+  C --> D["Work: 
+  Full‑Stack developer UI • APIs • Data"]
+  D --> E["🚀 Family and Friends"]
+  E --> B
+
+  subgraph Principles["How I like to work"]
+    P1["Ingenuity"] --> P2["Observability"] --> P3["Learning"] --> P4["Achievability"] --> P5["Collaboration"] 
+  end
+
+  B --- Principles
+  C --- Principles
+  D --- Principles
+```
+
+
+
+## About
+
+> *Développeur/Concepteur Full Stack et technicien informatique polyvalent, doté d’une expérience internationale et d’une forte capacité d’adaptation. Passionné par les nouvelles technologies et motivé par l’apprentissage continu, je combine une vision analytique, une approche rigoureuse et une réelle aisance à intégrer de nouveaux environnements. Habitué aux contextes complexes et multiculturels, j’apporte une contribution efficace aussi bien dans le développement d’applications que dans la gestion technique ou l’amélioration des processus.*
+
+```text
+JavaScript, TypeScript, PHP/Symfony, Node.js, React, PostgreSQL, Redis, Git, Docker, Linux, Bash, API REST, IA, LLMs, RAG, DevOps, CI/CD, Next.js, Tailwind CSS, Express.js, MongoDB, MySQL, Laravel, Nginx, Jenkins, GitLab CI, Travis CI, Azure DevOps, Linux (Arch, Debian, openSUSE, RedHat), System Administration, Networking, Security, Automation, Prompt Engineering etc....
+```
+## Now
+
+- Open to: collaboration on thoughtful products (web, tooling, or AI‑adjacent)
+
+## Stack (Icons Edition)
+
+<div align="center">
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Build</h3>
+      <p>
+        <img src="svg/react.svg" width="26" alt="React" />
+        <img src="svg/nextjs-icon.svg" width="26" alt="Next.js" />
+        <img src="svg/express.svg" width="26" alt="Express" />
+        <img src="svg/php.svg" width="26" alt="PHP" />
+        <img src="svg/laravel.svg" width="26" alt="Laravel" />
+        <img src="svg/mysql.svg" width="26" alt="MySQL" />
+        <img src="svg/postgresql-logo.svg" width="26" alt="PostgreSQL" />
+        <img src="svg/mongodb.svg" width="26" alt="MongoDB" />
+        <img src="svg/redis.svg" width="26" alt="Redis" />
+      </p>
+      <p>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+        <img alt="REST" src="https://img.shields.io/badge/REST-111111" />
+        <img alt="Auth" src="https://img.shields.io/badge/Auth%20%26%20Security-111111" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Ship</h3>
+      <p>
+        <img src="svg/docker.svg" width="26" alt="Docker" />
+        <img src="svg/nginx-16.svg" width="26" alt="Nginx" />
+        <img src="svg/gitlab.svg" width="26" alt="GitLab" />
+        <img src="svg/jenkins.svg" width="26" alt="Jenkins" />
+        <img src="svg/travis-ci.svg" width="26" alt="Travis CI" />
+        <img src="svg/terminal.svg" width="26" alt="Terminal" />
+      </p>
+      <p>
+        <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-111111?logo=githubactions&logoColor=white" />
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+        <img alt="Observability" src="https://img.shields.io/badge/Observability-111111" />
+        <img alt="Automation" src="https://img.shields.io/badge/Automation-111111" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Run (Linux)</h3>
+      <p>
+        <img src="svg/linux.svg" width="26" alt="Linux" />
+        <img src="svg/arch-linux.svg" width="26" alt="Arch" />
+        <img src="svg/debian.svg" width="26" alt="Debian" />
+        <img src="svg/opensuse.svg" width="26" alt="openSUSE" />
+        <img src="svg/redhat.svg" width="26" alt="RedHat" />
+        <img src="svg/bash-icon.svg" width="26" alt="Bash" />
+      </p>
+      <p>
+        <img alt="Networking" src="https://img.shields.io/badge/Networking-111111" />
+        <img alt="Reverse Proxy" src="https://img.shields.io/badge/Reverse%20Proxy-111111" />
+        <img alt="Hardening" src="https://img.shields.io/badge/Hardening-111111" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Think (AI)</h3>
+      <p>
+        <img src="svg/magglass.svg" width="26" alt="Search" />
+        <img src="svg/target.svg" width="26" alt="Precision" />
+        <img src="svg/questionmark.svg" width="26" alt="Questions" />
+      </p>
+      <p>
+        <img alt="LLMs" src="https://img.shields.io/badge/LLMs-6E56CF" />
+        <img alt="Agents" src="https://img.shields.io/badge/Agents-6E56CF" />
+        <img alt="RAG" src="https://img.shields.io/badge/RAG-6E56CF" />
+        <img alt="Embeddings" src="https://img.shields.io/badge/Embeddings-6E56CF" />
+        <img alt="Evals" src="https://img.shields.io/badge/Evals-6E56CF" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+## Toolbox
 
 <p align="center">
-<b
+  <img src="svg/html.svg" width="18" alt="HTML" />&nbsp;
+  <img src="svg/react.svg" width="18" alt="React" />&nbsp;
+  <img src="svg/nextjs-icon.svg" width="18" alt="Next.js" />&nbsp;
+  <img src="svg/express.svg" width="18" alt="Express" />&nbsp;
+  <img src="svg/php.svg" width="18" alt="PHP" />&nbsp;
+  <img src="svg/laravel.svg" width="18" alt="Laravel" />&nbsp;
+  <img src="svg/mysql.svg" width="18" alt="MySQL" />&nbsp;
+  <img src="svg/postgresql-logo.svg" width="18" alt="PostgreSQL" />&nbsp;
+  <img src="svg/mongodb.svg" width="18" alt="MongoDB" />&nbsp;
+  <img src="svg/redis.svg" width="18" alt="Redis" />&nbsp;
+  <img src="svg/docker.svg" width="18" alt="Docker" />&nbsp;
+  <img src="svg/linux.svg" width="18" alt="Linux" />&nbsp;
+  <img src="svg/bash-icon.svg" width="18" alt="Bash" />
+</p>
 
-<a href="https://www.buycoffee.to/zshmeta" target="_blank" rel="noreferrer"><img src="svg/buy-me-a-coffe.svg" alt="Buy Me A Coffee" width="32" height="32" /></a>
-<a href="https://www.telegram.com/zshmeta" target="_blank" rel="noreferrer"><img src="svg/telegram.svg" alt="Telegram" width="32" height="32" /></a>
 <p align="center">
-<b
-<a href="https://www.codepen.io/zshmeta" target="_blank" rel="noreferrer"><img src="svg/codepen.svg" alt="CodePen" width="32" height="32" /></a>
-<a href="https://www.stackoverflow.com/users/16273501/zshmeta" target="_blank" rel="noreferrer"><img src="svg/stackoverflow.svg" alt="StackOverflow" width="32" height="32" /></a>
-<a href="https://www.docker.com/" target="https://www.docker.com/zshmeta" rel="noreferrer"><img src="svg/docker.svg" alt="Docker" width="36" height="36" /></a>
-<a href="https://www.github.com/zshmeta" target="_blank" rel="noreferrer"><img src="svg/github.svg" alt="GitHub" width="32" height="32" /></a>
-<a href="https://www.medium.com/@zshmeta" target="_blank" rel="noreferrer"><img src="svg/medium.svg" alt="Medium" width="32" height="32" /></a>
-<a href="https://www.dev.to/zshmeta" target="_blank" rel="noreferrer"><img src="svg/dev-to.svg" alt="Dev" width="32" height="32" /></a>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-111111?logo=gitlab&logoColor=white" />
+</p>
+
+## Interests
+
+- Development (product + DX), design patterns, and pragmatic UX
+- Machine learning, generative models, and developer tooling
+- Cybersecurity, philosophy, psychology
+- Traveling, writing/journalism, and anything that improves fairness
+
+## Connect
+
+<p align="center">
+  <a href="https://www.buycoffee.to/zshmeta" target="_blank" rel="noreferrer">
+    <img src="svg/buy-me-a-coffe.svg" alt="Buy Me A Coffee" width="28" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/zshmeta" target="_blank" rel="noreferrer">
+    <img src="svg/telegram.svg" alt="Telegram" width="28" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://codepen.io/zshmeta" target="_blank" rel="noreferrer">
+    <img src="svg/codepen.svg" alt="CodePen" width="28" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/16273501/zshmeta" target="_blank" rel="noreferrer">
+    <img src="svg/stackoverflow.svg" alt="Stack Overflow" width="28" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/zshmeta" target="_blank" rel="noreferrer">
+    <img src="svg/github.svg" alt="GitHub" width="28" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@zshmeta" target="_blank" rel="noreferrer">
+    <img src="svg/medium.svg" alt="Medium" width="28" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://dev.to/zshmeta" target="_blank" rel="noreferrer">
+    <img src="svg/dev-to.svg" alt="DEV" width="28" height="28" />
+  </a>
+</p>
+
+## GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zshmeta&show_icons=true&hide_border=true"
+    alt="GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=zshmeta&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zshmeta&layout=compact&hide_border=true"
+    alt="Top languages"
+  />
+</p>
